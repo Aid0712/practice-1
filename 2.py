@@ -1,2 +1,3 @@
 x = 10
-name = "Aidprint(x, name)
+name = "Aidar"
+print(x, name)
